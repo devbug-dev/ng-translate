@@ -1,0 +1,18 @@
+{
+    "HOME": {
+        "TITLE": "Bienvenido TPP",
+        "SELECT": "Cambiar idioma"
+    },
+    "form": {
+        "email": "Correo",
+        "password": "Contraseña",
+        "address": "Dirección",
+        "addressPlaceholder": "Correo",
+        "address2": "Correo",
+        "addressPlaceholder2": "Correo 2",
+        "city": "Ciudad",
+        "state": "Estado",
+        "check": "Marcar",
+        "send": "Ingresar"
+    }
+}

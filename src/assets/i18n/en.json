@@ -1,0 +1,18 @@
+{
+    "HOME": {
+        "TITLE": "Welcome TPP!",
+        "SELECT": "Change language"
+    },
+    "form": {
+        "email": "Email",
+        "password": "Password",
+        "address": "Address",
+        "addressPlaceholder": "Email",
+        "address2": "Email",
+        "addressPlaceholder2": "Email",
+        "city": "City",
+        "state": "State",
+        "check": "Check me out",
+        "send": "Sign in"
+    }
+}
